@@ -1,0 +1,19 @@
+.name{
+    color: green;
+    border-bottom: dotted;
+    border-color: blueviolet;
+    border-width: 10px;
+}
+body{
+    border-style: solid;
+    border-color: black;
+}
+.glav{
+    color: gray;
+}
+#email{
+    color: green;
+}
+#web{
+    color: red;
+}
